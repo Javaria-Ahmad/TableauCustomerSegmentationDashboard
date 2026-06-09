@@ -6,7 +6,7 @@ Javaria Ahmad
 Ph.D. in Computer Science (Data Science and Security)
 
 ## Project Background and Goal
-This project makes use of techniques in Tableau, such as, visualiations, interactive dashboard, and storytelling to gain insights about UK bank customers' geography, demographics, and finances. The analysis takes into account these characteristics: 
+This project makes use of techniques in Tableau, such as, visualizations, interactive dashboard, and storytelling to gain insights about UK bank customers' geography, demographics, and finances. The analysis takes into account these characteristics: 
 - Age
 - Balance
 - Gender
@@ -51,7 +51,7 @@ To study customer demographic segmentation, the geographic visual shows these ar
 
 - England
 - Northern Ireland
-- Scottland
+- Scotland
 - Wales
 ---
 ### Gender Analysis
@@ -83,7 +83,7 @@ All the analyses from earlier steps are combined to build an interactive dashboa
 ---
 
 ## Tableau Storytelling
-A Tableau story depicting all the above analyses is created across customers in various regions and their segmnetation per region based on age, gender, balance, and job classification.
+A Tableau story depicting all the above analyses is created across customers in various regions and their segmentation per region based on age, gender, balance, and job classification.
 
 ---
 
@@ -95,7 +95,7 @@ The analysis helps draw several insight, for example, for the entire UK:
 - Most of the customers have low account balances with only around 5% having 80K.
 - 49% of the customers hold white collar jobs while 26% have blue collar jobs.
 
-Similarly, insights can be drawn for the indiviual regions within UK.
+Similarly, insights can be drawn for the individual regions within UK.
 
 ---
 
