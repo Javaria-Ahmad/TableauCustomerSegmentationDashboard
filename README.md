@@ -88,19 +88,53 @@ A Tableau story depicting all the above analyses is created across customers in 
 ---
 
 ## Findings
-The analysis helps draw several insight, for example:
+The analysis helps draw several insight, for example, for the entire UK:
 
-- 
+- The male customers are about 54% while the females are 46%
+- The most common age value is around 30 comprising about 40% of the customer population.
+- Most of the customers have low account balances with only around 5% having 80K.
+- 49% of the customers hold white collar jobs while 26% have blue collar jobs.
+
+Similarly, insights can be drawn for the indiviual regions within UK.
 
 ---
 
 ## Visualizations
 
+### Region Map
+<img src="images/RegionMap.png" width="600">
+
+### Gender Distribution
+<img src="images/GenderReview.png" width="600">
+
+### Age Distribution
+<img src="images/AgeDistribution.png" width="600">
+
+### Balance Distribution
+<img src="images/BalanceDistribution.png" width="600">
+
+### Job Classification
+<img src="images/JobClassification.png" width="600">
+
+### Customer Segmentation Dashboard
+<img src="images/CustomerSegmentationDashboard.png" width="600">
+
+### Customer Segmentation Storyline
+<img src="images/CustomerSegmentationStoryline.png" width="600">
 
 ---
 
 ## Repository Items
-
+- Customer Segmentation.twbx
+- README.md
+- data/P1-UK-Bank-Customers.csv
+- images/RegionMap.png
+- images/GenderReview.png
+- images/AgeDistribution.png
+- images/BalanceDistribution.png
+- images/JobClassification.png
+- images/CustomerSegmentationDashboard.png
+- images/CustomerSegmentationStoryline.png
 
 ---
 
